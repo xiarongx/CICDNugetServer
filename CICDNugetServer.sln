@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDNugetServer", "CICDNugetServer\CICDNugetServer.csproj", "{742B5A24-8ED8-4591-AA2B-E2BB3F9E660D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742B5A24-8ED8-4591-AA2B-E2BB3F9E660D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B5A24-8ED8-4591-AA2B-E2BB3F9E660D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B5A24-8ED8-4591-AA2B-E2BB3F9E660D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B5A24-8ED8-4591-AA2B-E2BB3F9E660D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A72954-C815-46ED-81F2-BD8801917AC7}
+	EndGlobalSection
+EndGlobal
